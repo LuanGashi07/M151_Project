@@ -13,7 +13,7 @@ Kunde	Käufer, Grafikkarten bestellen
 Nutzung der Applikation
 Die Applikation dient dazu das man die Ware, welche im Lagerhaus ist, immer gut im Überblick hat und somit nur soviel Bestellungen annimmt, solang man noch Grafikkarten auf Lager hat.
 
-|Nr.|	User Stories|||
+|Nr.|	User Stories|
 |----|:------------:|
 |01|	Als Administrator möchte ich Grafikkarten hinzufügen und herausgeben |
 |02|	Als Mitarbeiter möchte ich Grafikkarten hinzufügen|
